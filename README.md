@@ -1,6 +1,7 @@
-Requirements for Staring Work In Android Studio
-1.SDK Download
-2.Android Studio
-3.BIOS Enable
-4.8 GB RAM Recommended 
-5. Internet Required
+Requirements for Staring Work In Android Studio <br>
+<br>
+SDK Download<br>
+Android Studio<br>
+BIOS Enable<br>
+8 GB RAM Recommended <br>
+Internet Required<br>
