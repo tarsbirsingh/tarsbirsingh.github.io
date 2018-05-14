@@ -7,3 +7,8 @@ Windows/Linux/ Mac PC with atleast i3 processor. Processor is expected to have a
 2–4GB of disk space. This depends on the versions of Android SDKs and system images you install. For every system emulater you create you take about 1–2GB of the disk space
 Java installed
 Android Studio
+
+
+It's free to learn. You can learn Android development from udacity. There is a free course offered by Google but a foundation in Java is recommended
+
+3. It takes 25$ for obtaining a life long membership in play store. You can upload as many apps as you like.
